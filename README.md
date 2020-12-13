@@ -15,6 +15,15 @@
 - [528/20](https://www.mos.ru/mka/documents/gorodskaya-komissiya-po-voprosam-gradostroitelstva-zemlepolzovaniya-i-zastroiki/zaklyucheniya_o_rezultatakh_obshchestvennykh_obsuzhdeniy/view/245967220/), файл `ZaklucheniePZZ-02395-2020-EOO02-11-202018_33(0)`
 
 
+## Результаты
+
+Наспех получилось так:
+
+    494/20   против: 164, за 787+4
+    526/20   против: 160, за 792+47
+    527/20   против: 171, за 770+58
+    528/20   против: 163, за 798+3
+
 ### Инструменты
 Конвертация PDF в текст для анализа онлайн: [pdftotext.com](https://pdftotext.com/)
 
